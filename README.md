@@ -1,5 +1,6 @@
 # planets
-Example from Data Carpentry Workshop - change in nano
+
+Example from Data Carpentry Workshop - now with added words
 
 We started working on this yesterady.
 
